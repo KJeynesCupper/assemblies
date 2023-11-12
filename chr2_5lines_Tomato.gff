@@ -1,0 +1,8 @@
+##gff-version 1
+##source-version rtracklayer 1.48.0
+##date 2023-11-12
+SL4.0ch02	maker_ITAG	gene	7568	11499	19	-	.	SL4.0ch02
+SL4.0ch02	maker_ITAG	mRNA	7568	11499	19	-	.	SL4.0ch02
+SL4.0ch02	maker_ITAG	three_prime_UTR	7568	7983	.	-	.	SL4.0ch02
+SL4.0ch02	maker_ITAG	exon	7568	8024	.	-	.	SL4.0ch02
+SL4.0ch02	maker_ITAG	CDS	7984	8024	.	-	2	SL4.0ch02
